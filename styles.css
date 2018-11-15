@@ -1,0 +1,23 @@
+img {
+    width:400px;
+}
+
+.category1 {
+    color: red;
+}
+
+.category2 {
+    color: green;
+}
+
+.category3 {
+    color: yellow;
+}
+
+.category4 {
+    color: orange;
+}
+
+body{
+    background-color: black;
+}
